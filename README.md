@@ -1,5 +1,16 @@
 # Camunda Platform 8
 
+## How to run Camunda 8 using this project:
+```
+./up.sh
+```
+
+## To shutdown the entire stack use the script:
+```
+./down.sh
+```
+
+
 This repository contains links to Camunda Platform 8 resources, the official release artifacts (binaries), and supporting config files for running Docker Compose as a local development option. 
 
 :warning: **Docker Compose is only recommended for local development.** :warning:
